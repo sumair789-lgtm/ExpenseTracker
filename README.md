@@ -13,5 +13,5 @@ A command-line Expense Tracker built in Python.
 - Python
 
 ## About
-Built during 3rd Semester — BS Computer Science
+Built during 5th Semester — BS Computer Science
 The University of Faisalabad (2023-2027)
